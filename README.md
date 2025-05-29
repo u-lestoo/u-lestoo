@@ -17,10 +17,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/twoj-link" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:twoj.email@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
+  <a href="https://discord.gg/luminstudios" target="blank">
+    <img align="center" src="https://img.shields.io/badge/discord-red?style=flat&logo=discord" />
   </a>
 </p>
