@@ -11,20 +11,8 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,nodejs,git,github,vscode" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TwojNick&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwojNick&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🌐 Connect with me
 
@@ -36,9 +24,3 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
   </a>
 </p>
-
----
-
-### 🐍 Snake eating my contributions
-
-![snake gif](https://github.com/TwojNick/TwojNick/blob/output/github-contribution-grid-snake.svg)
